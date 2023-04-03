@@ -7,7 +7,7 @@ int main()
     {
         printf("Gucci Bag");
 
-        if (tk >= 20000)
+        if (tk > 20000)
         {
             printf("\nGucci Belt");
         }
